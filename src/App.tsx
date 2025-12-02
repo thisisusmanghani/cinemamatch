@@ -139,10 +139,6 @@ function App() {
           </div>
         )}
 
-        {/* Features Section */}
-        {!response && !loading && (
-       
-        )}
       </main>
 
       {/* Footer */}
